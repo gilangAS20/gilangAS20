@@ -11,6 +11,13 @@
 #### 1. Business Development di PT. Pura Barutama (magang)
      - Membuat AI dengan YOLOv4, Tensorflow, dan EasyOCR untuk deteksi plat nomor kendaraan
      - Membuat Flow Chart sistem inventory mulai dari raw material masuk ke gudang, proses pembuatan komponen, hingga menjadi satu komponen utuh
+     
+## Pelatihan dan Sertifikasi:
+- Oracle Database Design and Programming
+
+
+
+
 <!--
 **gilangAS20/gilangAS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
