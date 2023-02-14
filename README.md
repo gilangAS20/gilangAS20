@@ -13,7 +13,7 @@
      - Membuat Flow Chart sistem inventory mulai dari raw material masuk ke gudang, proses pembuatan komponen, hingga menjadi satu komponen utuh
      
 ## Pelatihan dan Sertifikasi:
-- Oracle Database Design and Programming
+     - Oracle Database Design and Programming
 
 
 
