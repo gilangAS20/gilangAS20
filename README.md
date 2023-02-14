@@ -1,5 +1,6 @@
 # Halo teman-teman, aku Gilang👋
 
+Saya adalah mahasiswa Universitas Kristen Satya Wacana dengan jurusan Teknik Informatika dan pendalaman Data Science, berikut adalah daftar riwayatku:
 
 **gilangAS20/gilangAS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
