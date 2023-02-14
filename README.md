@@ -3,7 +3,7 @@
 
 ## Riwayat Pendidikan:
 #### 1. Universitas Kristen Satya Wacana
-     - S1 Teknik Informatika | 2019-Sekarang
+     - S1 Teknik Informatika | Data Science | 2019-Sekarang
 #### 2. SMA Negeri 1 Ambarawa
      - MIPA | 2017-2019
      
