@@ -1,6 +1,12 @@
-# Halo teman-teman, aku Gilang👋
+# Halo teman-teman, saya Gilang👋
 
-Saya adalah mahasiswa Universitas Kristen Satya Wacana dengan jurusan Teknik Informatika dan pendalaman Data Science, berikut adalah daftar riwayatku:
+Berikut adalah daftar riwayat saya:
+
+## Riwayat Pendidikan:
+#### 1. Universitas Kristen Satya Wacana
+     - S1 Teknik Informatika | 2019-Sekarang
+#### 2. SMA Negeri 1 Ambarawa
+     - MIPA | 2017-2019
 
 **gilangAS20/gilangAS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
