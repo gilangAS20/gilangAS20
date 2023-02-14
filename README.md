@@ -1,6 +1,5 @@
 # Halo teman-teman, saya Gilang👋
-
-Berikut adalah daftar riwayat saya:
+##Berikut adalah daftar riwayat saya
 
 ## Riwayat Pendidikan:
 #### 1. Universitas Kristen Satya Wacana
