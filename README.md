@@ -6,7 +6,12 @@
      - S1 Teknik Informatika | 2019-Sekarang
 #### 2. SMA Negeri 1 Ambarawa
      - MIPA | 2017-2019
-
+     
+## Pengalaman Kerja:
+#### 1. Business Development di PT. Pura Barutama (magang)
+     - Membuat AI dengan YOLOv4, Tensorflow, dan EasyOCR untuk deteksi plat nomor kendaraan
+     - Membuat Flow Chart sistem inventory mulai dari raw material masuk ke gudang, proses pembuatan komponen, hingga menjadi satu komponen utuh
+<!--
 **gilangAS20/gilangAS20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,4 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
