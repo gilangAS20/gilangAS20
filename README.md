@@ -2,10 +2,8 @@
 ### Berikut adalah daftar riwayat saya
 
 ## Riwayat Pendidikan:
-#### 1. Universitas Kristen Satya Wacana
-     - S1 Teknik Informatika | Data Science | 2019-Sekarang
-#### 2. SMA Negeri 1 Ambarawa
-     - MIPA | 2017-2019
+     - Universitas Kristen Satya Wacana | S1 Teknik Informatika | Data Science | 2019-Sekarang
+     - SMA Negeri 1 Ambarawa | MIPA | 2017-2019
      
 ## Pengalaman Kerja:
 #### 1. Business Development di PT. Pura Barutama (magang)
